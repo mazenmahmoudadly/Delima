@@ -14,7 +14,6 @@ Delima is a smart, full-stack delivery management platform built to automate and
 - ⚙️ [Backend API](https://github.com/your-username/delima-backend)
 - 📱 [Mobile App](https://github.com/mazenmahmoudadly/corrier_app)
 
-> _Replace the links above with your actual GitHub repo URLs._
 
 ## 📸 Screenshots
 _Add screenshots or GIFs here showing the dashboard, tracking view, mobile app, etc._
